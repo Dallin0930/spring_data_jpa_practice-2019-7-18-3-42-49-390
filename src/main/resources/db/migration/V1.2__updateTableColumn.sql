@@ -1,1 +1,0 @@
-alter table Justice add  asd1 varchar(200);
